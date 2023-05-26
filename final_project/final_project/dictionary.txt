@@ -1,0 +1,12 @@
+code
+is a set of words and signs that give instructions to computer
+data
+are numbers that can be entered into a computer
+encoding
+is the act of changing data so that no one can read it 
+hardware
+refers to the physical parts of a computer
+software 
+is a program or instruction that makes a computer perform a specific task 
+technical support
+is the task of helping pepole use and understand technology
